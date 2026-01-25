@@ -49,3 +49,7 @@ p.main {
 a {
     color: #2ff8ff;
 }
+a.nounderline {
+    text-decoration: none;
+    color: #00E666;
+}
