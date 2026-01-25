@@ -7,20 +7,20 @@ h1 {
     margin-top: 50px;
     margin-left: 50px;
     margin-bottom: 30px;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 p.contact {
     margin-bottom: 5px;
     margin-left: 50px;
     color: #13ff8d;
     font-size: 130%;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 h2 {
     color: #13ff8d;
     font-size: 215%;
     margin-left: 50px;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 h3 {
     color: #13ff8d;
@@ -28,12 +28,12 @@ h3 {
     margin-left: 50px;
     margin-top: 50px;
     margin-bottom: 30px;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 p.small{
     color: #aaaaaa;
     margin-left: 50px;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 
 p.main {
@@ -41,7 +41,7 @@ p.main {
     font-size: 130%;
     margin-left: 50px;
     margin-top: 50px;
-    font-family: courier;
+    font-family: "Courier New", courier;
 }
 a {
     color: #2ff8ff;
